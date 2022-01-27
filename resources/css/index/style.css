@@ -38,7 +38,7 @@
   background-color: #339999;
 }
 
-/* Why GIBC? */
+/* Why MSM? */
 
 .why-us {
   margin-top: 5vh;
@@ -52,31 +52,27 @@
 .carousel {
   margin-top: 4vh;
 }
-/* Location and Contact */
 
-.location {
+/* Testimonials */
+
+
+.testimonials {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
   margin-top: 10vh;
-  margin-bottom: 5vh;
+  margin-bottom: 10vh;
+  padding:2vh;
+  background-color:#339999;
+  color:white;
 }
 
-.location h1 {
-  text-align: center;
+.testimonials cite {
+  color: white;
 }
 
-.location p {
-  font-size: 3vh;
-}
-
-.location h2 {
-  text-align: center;
-}
-
-.title1 {
-  font-weight: bold;
-}
-
-.findbuttons a {
-  margin: 2vh;
+.testimonials .carousel-inner {
+  margin-top:5vh;
 }
 
 /* Footer */

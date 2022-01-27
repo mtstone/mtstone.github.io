@@ -6,6 +6,10 @@ nav {
   background-color: #339999;
 }
 
+footer .nav-link {
+  color: black;
+}
+
 .nav-link {
   text-decoration: none;
   color: white;
@@ -13,6 +17,10 @@ nav {
 
 .nav-link:hover {
   opacity: 0.95;
+}
+
+.book-button-nav {
+  font-weight: bold;
 }
 
 /* Accessibility */
@@ -63,9 +71,4 @@ footer .nav {
 
 .copyright {
   text-align: center;
-}
-
-.book-button-nav {
-  color: #0088ff !important;
-  font-weight: bold;
 }

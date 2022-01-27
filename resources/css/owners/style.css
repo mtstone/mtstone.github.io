@@ -1,9 +1,9 @@
 /* Landing area */
 
 .landing {
-  height: 75vh;
-  background-image: url("../../images/beachchairs.jpg");
-  background-position: center;
+  height: 100vh;
+  background-image: url("../../images/project4-2.jpeg");
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
   color: white;

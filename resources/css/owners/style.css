@@ -24,48 +24,24 @@
 }
 
 
+/* About */
 
-/* What is ownership */
-.ownership h2 {
-  margin-bottom: 5vh;
-  color: white;
+.about-section {
+  padding: 3vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
-.ownership {
-  background-color: #0088ff;
-  padding: 10vh;
-  margin-top: 5vh;
+.photos-right {
+  padding: 5vh;
 }
 
-.card-text {
-  text-align: left;
+.photos-right img {
+  border: 1vh solid #339999;
+  margin: 2vh;
 }
 
-/* FAQS */
-
-
-.faqs {
-  margin-top: 5vh;
-}
-
-.faqs .card-header {
-  background-color: #0088ff;
-  border: 0.5vh solid white;
-}
-
-.faqs .card {
-  border: none;
-  border-radius: 0;
-}
-
-.faqs button {
-  color: white;
-}
-
-.faqs button:hover {
-  color: white;
-}
-
-.title-section {
-  margin-bottom: 5vh;
+.about-section p {
+  font-size: 2.5vh;
 }

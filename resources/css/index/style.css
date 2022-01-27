@@ -2,7 +2,7 @@
 
 .landing {
   height: 100vh;
-  background-image: url("../../images/Mainbackground.jpg");
+  background-image: url("../../images/project4-3.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,7 +23,7 @@
 
 /* Three panels */
 
-.three-fold .three-fold-plate {
+.fold {
   padding-top: 3vh;
   padding-bottom: 3vh;
   flex-direction: column;
@@ -33,16 +33,9 @@
   text-align: center;
 }
 
-.three-fold .col:hover {
-  opacity: 0.9;
-}
 
-.three-fold .two {
-  background-color: #0088ff;
-}
-
-.three-fold .one {
-  background-color: #00b3ff;
+.two {
+  background-color: #003399;
 }
 
 /* Why GIBC? */

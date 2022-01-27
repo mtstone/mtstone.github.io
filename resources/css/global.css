@@ -10,6 +10,10 @@ footer .nav-link {
   color: black;
 }
 
+.navbar-toggler {
+  background-color: white;
+}
+
 .nav-link {
   text-decoration: none;
   color: white;
@@ -54,6 +58,14 @@ span #main {
   visibility: hidden;
   display: block;
   position: relative;
+}
+
+.contact {
+  padding: 2vh;
+}
+
+.contact-blocks {
+  padding: 2vh;
 }
 
 

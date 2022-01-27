@@ -1,0 +1,95 @@
+/* Landing area */
+
+.thumbnail {margin-bottom:6px;}
+
+.carousel-control.left,.carousel-control.right{
+  background-image:none;
+  margin-top:10%;
+  width:5%;
+}
+
+.landing {
+  height: 75vh;
+  background-image: url("../../images/beachchairs.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin-bottom: 5vh;
+}
+
+.home-title {
+  margin: auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 2vh;
+}
+
+.text {
+  background-color: rgba(0,0,0,0.4);
+  padding: 2vh;
+  text-align: center;
+}
+
+/* Tabbed section */
+
+.services-section {
+  margin-top: 5vh;
+  text-align: center;
+}
+
+.carousel-section {
+  text-align: center;
+}
+
+.carousel-section h2 {
+  text-align: center;
+}
+
+.services-section p {
+  font-size: 3vh;
+}
+
+.tabsection h2 {
+  margin-bottom: 5vh;
+  margin-top: 3vh;
+}
+
+.services {
+  margin-top: 3vh;
+}
+
+
+/* Rooms */
+
+.room-listing {
+  padding: 3vh;
+  margin: 2vh;
+}
+
+.carousel {
+  border: 0.3vh black solid;
+}
+
+.service button img {
+  width: 2em;
+  height: 2em;
+}
+
+
+/* Attractions */
+
+.attraction {
+  background-color: #f7f7f7 !important;
+  padding: 2vh;
+  margin: 2vh;
+  min-width: 23vw;
+}
+
+.attractions-list {
+  margin: auto;
+}
+
+.book-now {
+  margin-top: 3vh;
+}

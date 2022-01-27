@@ -1,0 +1,102 @@
+/* Home Landing Area */
+
+.landing {
+  height: 100vh;
+  background-image: url("../../images/Mainbackground.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home-title {
+  color: white;
+  margin: auto;
+}
+
+.text {
+  background-color: rgba(0,0,0,0.4);
+  padding: 2vh;
+  text-align: center;
+}
+
+
+
+/* Three panels */
+
+.three-fold .three-fold-plate {
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
+.three-fold .col:hover {
+  opacity: 0.9;
+}
+
+.three-fold .two {
+  background-color: #0088ff;
+}
+
+.three-fold .one {
+  background-color: #00b3ff;
+}
+
+/* Why GIBC? */
+
+.why-us {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+.card {
+  margin: 2vh;
+}
+
+.carousel {
+  margin-top: 4vh;
+}
+/* Location and Contact */
+
+.location {
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+}
+
+.location h1 {
+  text-align: center;
+}
+
+.location p {
+  font-size: 3vh;
+}
+
+.location h2 {
+  text-align: center;
+}
+
+.title1 {
+  font-weight: bold;
+}
+
+.findbuttons a {
+  margin: 2vh;
+}
+
+/* Footer */
+
+footer {
+  border-top: 0.5vh solid black;
+  margin-top: 5vh;
+}
+
+footer .nav {
+  margin-top: 5vh;
+}
+
+.copyright {
+  text-align: center;
+}

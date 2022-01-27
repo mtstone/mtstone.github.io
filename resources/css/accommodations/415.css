@@ -1,0 +1,62 @@
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border: 0.3vh solid black;
+  background-color: #f7f7f7;
+  color: black;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border: 0.3vh solid black;
+  background-color: white;
+  color: blue;
+}
+
+.room-types {
+  text-align: center;
+}
+
+.room-right h5 {
+  margin-top: 3vh;
+}
+
+.room-right h6 {
+  text-align: left;
+}
+
+/* Attractions */
+
+.attraction {
+  min-width: 80vw;
+  margin: auto;
+  margin-top: 2vh;
+}
+
+.attraction-type {
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4vh;
+}
+
+.attraction-type .container {
+  padding: 0;
+}
+
+.

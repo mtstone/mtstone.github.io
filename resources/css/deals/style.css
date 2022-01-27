@@ -1,0 +1,28 @@
+/* Landing area */
+
+.landing {
+  height: 75vh;
+  background-image: url("../../images/beachchairs.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin-bottom: 5vh;
+}
+
+.home-title {
+  margin: auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 2vh;
+}
+
+.text {
+  background-color: rgba(0,0,0,0.4);
+  padding: 2vh;
+  text-align: center;
+}
+
+.card {
+  margin: 2vh;
+}

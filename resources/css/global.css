@@ -1,0 +1,58 @@
+html {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+/* Accessibility */
+
+
+a.skip-main {
+    left: -999px;
+    position: absolute;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    z-index: -999;
+}
+a.skip-main:focus {
+    left: auto;
+    top: auto;
+    width: 30%;
+    height: auto;
+    overflow: auto;
+    margin: 0 35%;
+    padding: 5px;
+    font-size: 20px;
+    outline: 3px solid red;
+    text-align: center;
+    z-index: 999;
+}
+
+span #main {
+  top: -250px;
+  visibility: hidden;
+  display: block;
+  position: relative;
+}
+
+
+/* Footer */
+
+footer {
+  border-top: 0.5vh solid black;
+  margin-top: 5vh;
+}
+
+footer .nav {
+  margin-top: 5vh;
+  text-align: left;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.book-button-nav {
+  color: #0088ff !important;
+  font-weight: bold;
+}

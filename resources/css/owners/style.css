@@ -2,7 +2,7 @@
 
 .landing {
   height: 100vh;
-  background-image: url("../../images/project4-2.jpeg");
+  background-image: url("../../images/anthony2.jpeg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -38,7 +38,7 @@
 }
 
 .photos-right img {
-  border: 1vh solid #339999;
+  border: 1vh solid #003399;
   margin: 2vh;
 }
 

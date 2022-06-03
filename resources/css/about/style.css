@@ -1,0 +1,47 @@
+/* Landing area */
+
+.landing {
+  height: 100vh;
+  background-image: url("../../images/headshot.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: white;
+  margin-bottom: 5vh;
+}
+
+.home-title {
+  margin: auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 2vh;
+}
+
+.text {
+  background-color: rgba(0,0,0,0.4);
+  padding: 2vh;
+  text-align: center;
+}
+
+
+/* About */
+
+.about-section {
+  padding: 3vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.photos-right {
+  padding: 5vh;
+}
+
+.photos-right img {
+  border: 1vh solid #003399;
+  margin: 2vh;
+}
+
+.about-section p {
+  font-size: 2.5vh;
+}

@@ -2,10 +2,10 @@
 
 .landing {
   height: 100vh;
-  background-image: url("../../images/headshot.png");
+  background-image: url("../../images/aboutusbackground.JPG");
   background-position: top;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
   color: white;
   margin-bottom: 5vh;
 }
